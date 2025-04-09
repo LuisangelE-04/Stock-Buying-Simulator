@@ -14,3 +14,8 @@ Planning and Thoughts
 - List of Available Stock to Purchase
 - Stock Price Generator
 - Buy Stock and Add to portfolio
+
+Wed April 9 Planning
+- Add Feedback to User of Successful Purchases
+- Add Live Updates to Stock Pricing
+- Add Live Upddates to Portfolio Stock Value
