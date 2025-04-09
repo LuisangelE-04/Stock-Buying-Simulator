@@ -1,0 +1,16 @@
+This program will simulate simple stock exchange by showing random prices only. 
+Would like to implement an API that fetches real time stock values instead, but for testing purposes we will incorportate a random generator to test the stocks.
+
+THe user will have a portfolio that shows the amount of stock they have, cash available and other features as well.
+
+The purpose of this is to simulate buying stock and building your way up in the stock market virtually.
+
+The timing will be quicker than real time in terms of when the program updates the price of the stock.
+
+
+
+Planning and Thoughts
+
+- List of Available Stock to Purchase
+- Stock Price Generator
+- Buy Stock and Add to portfolio
